@@ -1,5 +1,5 @@
-
-# IR Project: Increasing Diversity of BM25 Ranking Results
+# Information Retrieval Project: Increasing Topic Diversity of BM25 Ranking Results 
+Project by Group 6: Sjoerd van Dijk, Marit Hagens, and Joris Sunnotel
 
  - Data
 	 - clean 
@@ -9,7 +9,7 @@
 	 - results 
 		 --- Contains the output and results of the applied algorithms--- 
 - Notebooks
-	- Analyse LDA group datasets from preprocessed datasets.ipnb
+	- Analyse LDA group datasets from preprocessed datasets.ipynb
 		--- Analyses the LDA parameters and createst a dataset---
 	- Create ranking datasets BM25.ipynb
 		--- Preprocess the raw datasets---
