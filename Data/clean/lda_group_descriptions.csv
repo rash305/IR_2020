@@ -1,0 +1,14 @@
+0;0.004food ; 0.003milk ; 0.003meat ; 0.003pbdes ; 0.003sampl ; 0.002concentr ; 0.002pbde ; 0.002product ; 0.002infant ; 0.002fish
+1;0.020cell ; 0.011activ ; 0.010effect ; 0.008human ; 0.008cancer ; 0.006antioxid ; 0.006induc ; 0.006acid ; 0.005inhibit ; 0.005studi
+2;0.005platelet ; 0.004mercuri ; 0.003hair ; 0.003concentr ; 0.002diseas ; 0.002level ; 0.002iodin ; 0.002effect ; 0.002signific ; 0.002activ
+3;0.002pcdd ; 0.001detect ; 0.001sampl ; 0.001uptak ; 0.001catfish ; 0.001cholin ; 0.001patient ; 0.001lesion ; 0.001imag ; 0.001scan
+4;0.006gluten ; 0.003ncgs ; 0.002brca ; 0.002celiac ; 0.001wheat ; 0.001gondii ; 0.001sensit ; 0.001antibodi ; 0.001sulfit ; 0.001patient
+5;0.013exposur ; 0.010children ; 0.010food ; 0.006organ ; 0.006pesticid ; 0.004studi ; 0.004sampl ; 0.004health ; 0.003level ; 0.003product
+6;0.004curcumin ; 0.003patient ; 0.002skin ; 0.002constip ; 0.002dri ; 0.002gout ; 0.002citrullin ; 0.001nutrit ; 0.001mgus ; 0.001watermelon
+7;0.003mrsa ; 0.002difficil ; 0.001barn ; 0.001water ; 0.001infect ; 0.001hepat ; 0.001liver ; 0.001cerebellar ; 0.001rutinosid ; 0.001patient
+8;0.006patient ; 0.006isol ; 0.005resist ; 0.004sampl ; 0.004case ; 0.003infect ; 0.003pork ; 0.003coli ; 0.003report ; 0.002mrsa
+9;0.005human ; 0.005patient ; 0.005diseas ; 0.004exposur ; 0.003bmaa ; 0.003infect ; 0.002suggest ; 0.002increas ; 0.002studi ; 0.002system
+10;0.017risk ; 0.016studi ; 0.013intak ; 0.011cancer ; 0.011diet ; 0.009increas ; 0.008dietari ; 0.008consumpt ; 0.007diseas ; 0.007result
+11;0.014insulin ; 0.009diet ; 0.009protein ; 0.008glucos ; 0.007meal ; 0.007increas ; 0.007acid ; 0.006arteri ; 0.005high ; 0.005endotheli
+12;0.008food ; 0.006chicken ; 0.005sleep ; 0.004melatonin ; 0.003sampl ; 0.003product ; 0.003meat ; 0.003poultri ; 0.003contamin ; 0.002broccoli
+13;0.016patient ; 0.013effect ; 0.012group ; 0.011studi ; 0.009signific ; 0.009treatment ; 0.008placebo ; 0.008control ; 0.007trial ; 0.006result
