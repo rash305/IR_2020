@@ -9,7 +9,7 @@ Project by Group 6: Sjoerd van Dijk, Marit Hagens, and Joris Sunnotel
 	 - results 
 		 --- Contains the output and results of the applied algorithms--- 
 - Notebooks
-	- Analyse LDA group datasets from preprocessed datasets.ipnb
+	- Analyse LDA group datasets from preprocessed datasets.ipynb
 		--- Analyses the LDA parameters and createst a dataset---
 	- Create ranking datasets BM25.ipynb
 		--- Preprocess the raw datasets---
